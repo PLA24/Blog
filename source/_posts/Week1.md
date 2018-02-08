@@ -10,13 +10,15 @@ Welcome to the first post on this blog! This format is our weekly summary, we wi
 ## This week
 
 ### Monday
-
 On monday we had our first project presentation. Our professors explained what we will be doing the next couple of weeks, and gave a little insight on what we are supposed to do.
 
 After that we met each other for the first time, with a 'game' to get to know each other.
 
 ### Wednesday
-
 On wednesday, we had a presentation from a [Planet®](https://www.planet.com/) employee, explaining the company's history and their plans for satellite imagery.
 After the presentation, we participated in a workshop on creative brainstorming & target audience analysis. While brainstorming, we came up with a couple idea's for the project, but we didn't come up with something definitive.
 We also setup [Trello](https://trello.com) with multiple boards for our regular R&D and our idea lists & such.
+
+## Plans
+
+We are planning to have our main idea finished next week so we can research what frameworks to use, and fill our R&D board with cards =).
