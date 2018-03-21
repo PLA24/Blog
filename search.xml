@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title><![CDATA[Hello World]]></title>
+      <url>/Blog/2018/03/21/hello-world/</url>
+      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[week 5]]></title>
+      <url>/Blog/2018/03/07/week-5/</url>
+      <content type="html"><![CDATA[<h2 id="this-week-5"><a href="#this-week-5" class="headerlink" title="this week (5)"></a>this week (5)</h2><h3 id="Monday"><a href="#Monday" class="headerlink" title="Monday"></a>Monday</h3><p>Today we picked of from where we left of last time (before the holiday). We all went on to do various tasks pinned on the Trello backlog, except for Souhail, he called in sick today. Cornell on the other hand made a new card special for him, this because he was in a lot of stress about his late project(he had to resit this specific project). We made a team decision to grant him some time to overcome his stressful situation. This so that when he finishes his task, his focus will be on our current project and we can work most efficient again. </p>
+<h3 id="Wednesday"><a href="#Wednesday" class="headerlink" title="Wednesday"></a>Wednesday</h3><p>Today we went on with various tasks on the Trello board. Ziggy called in sick today, and Souhail still had not recovered from his earlier sickness. Although they were sick, they starded working from home. Furthermore we had a feedback session with Arthur, he gave some feedback concerning our audience analysis. After this feedback we put the audience analysis back on the Trello board, and we fixed it right away. Another thing we came across during the feedback session, is the lack of contact with our audience. We intend on making contact with our audience as soon as possible, we will do this through the use of e-mail and phone traffic. </p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[week 3 & 4]]></title>
+      <url>/Blog/2018/03/05/week-3-4/</url>
+      <content type="html"><![CDATA[<h2 id="this-week-3"><a href="#this-week-3" class="headerlink" title="this week (3)"></a>this week (3)</h2><h3 id="Monday"><a href="#Monday" class="headerlink" title="Monday"></a>Monday</h3><p>Today we had a product demonstration in the sense of how we foresaw the application was supposed to look like. After the demonstration we had some feedback.<br>With the feedback in hand we went back to the drawing board and made a few adjustments. After this Arthur came by and he oversaw all of our work.<br>After this Arthur gave more feedback. So we planned to make adjustments to his feedback more on this on Wednesday’s post.</p>
+<h3 id="Wednesday"><a href="#Wednesday" class="headerlink" title="Wednesday"></a>Wednesday</h3><p>Today we started of with making adjustments to the Trello backlog. This because we received feedback concerning our content.<br>Furthermore we made a retrospective containing our pros and cons concerning our work flow as well as future changes to our work flow. </p>
+<h2 id="This-week-4"><a href="#This-week-4" class="headerlink" title="This week (4)"></a>This week (4)</h2><h3 id="Holiday"><a href="#Holiday" class="headerlink" title="Holiday"></a>Holiday</h3><p>Nothing to report ;)</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[week 2]]></title>
+      <url>/Blog/2018/02/16/Week2/</url>
+      <content type="html"><![CDATA[<p>##This week</p>
+<p>###Monday<br>Today we got a presentation in the same classroom yet again. The presentation was a quick tutorial about working together with scrum. We were thought about things as standup, product backlog etc. We also had to make a card on “Trello” which had a list of  ….</p>
+<p>###Wednesday<br>On wednesday, we didn’t have a workshop but we were supposed to work on our own. We were working on the things that had to be finished by next monday. We managed to finish the cooperation agreement and we made the beginning for the audience analysis.<br>While we were working, our teacher Arthur checked on us and our progress. We got to ask him some questions and he told us that we had to present our current progress next monday.<br>At the end we divided all the work that had to be done by monday.</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Samenwerkingsovereenkomst]]></title>
+      <url>/Blog/2018/02/14/Samenwerkingsovereenkomst/</url>
+      <content type="html"><![CDATA[<blockquote>
+<p>Onze missie is om na een project een goed en werkend product te leveren die aan alle opgestelde requirements voldoet en nog meer.</p>
+</blockquote>
+<p>Dit Samenwerkingscontract laat zien hoe wij in dit project met elkaar werken. Wanneer er onenigheid plaats vindt kan het team terugkijken in dit samenwerkingscontract, dit om zo te bepalen of er iemand af doet aan de gemaakte afspraken en dus contractbreuk pleegt. Wanneer dit het geval is kan het team dit aangeven bij het teamlid in kwestie. Als het teamlid in kwestie hier geen gehoor aangeeft, kunnen de consequenties die ook in dit contract vermeldt staan in werking treden. </p>
+<h2 id="Contactgegevens-Teamleden"><a href="#Contactgegevens-Teamleden" class="headerlink" title="Contactgegevens Teamleden"></a>Contactgegevens Teamleden</h2><table>
+<thead>
+<tr>
+<th>Naam</th>
+<th>E-mail</th>
+<th>Telefoonnummer</th>
+<th>Rol</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Raphael Bunck</td>
+<td>raphael@bunck.me</td>
+<td>0631905192</td>
+<td>Scrummaster</td>
+</tr>
+<tr>
+<td>Stijn Klopper</td>
+<td>stijn.klopper@hva.nl</td>
+<td>0636531075</td>
+<td>Documentalist</td>
+</tr>
+<tr>
+<td>Cornelbond</td>
+<td>cornelbond@hotmail.com</td>
+<td>063306993</td>
+<td>Teamlid</td>
+</tr>
+<tr>
+<td>Mourad Abouhcen</td>
+<td>mourad.abouhcen@hva.nl</td>
+<td>0617507364</td>
+<td>Teamlid</td>
+</tr>
+<tr>
+<td>Ziggy Veerman</td>
+<td>ziggy.veerman@hva.nl</td>
+<td>0629502517</td>
+<td>Productowner</td>
+</tr>
+<tr>
+<td>Souhail Faiz</td>
+<td>souhail.faiz@hva.nl</td>
+<td>0640874249</td>
+<td>Teamlid</td>
+</tr>
+</tbody>
+</table>
+<h2 id="Team-analyse"><a href="#Team-analyse" class="headerlink" title="Team analyse"></a>Team analyse</h2><h6 id="Sterktes"><a href="#Sterktes" class="headerlink" title="Sterktes:"></a>Sterktes:</h6><p>Iedereen binnen het team heeft er veel zin in het nieuwe project en is ook erg gedreven om dit tot een goed einde te brengen. </p>
+<h6 id="Zwaktes"><a href="#Zwaktes" class="headerlink" title="Zwaktes:"></a>Zwaktes:</h6><p>Binnen het team zijn alle teamleden nog onbekend met elkaar. Niet iedereen heeft ervaring met python and raspberry pi’s.</p>
+<h6 id="Kansen"><a href="#Kansen" class="headerlink" title="Kansen:"></a>Kansen:</h6><p>De toename aan files in Nederland en andere ontwikkelde landen zal er voor zorgen dat de vraag naar verkeersinformatie/updates omhoog gaat.</p>
+<h6 id="Bedreigingen"><a href="#Bedreigingen" class="headerlink" title="Bedreigingen:"></a>Bedreigingen:</h6><p>De foto’s die Planet levert zijn niet naar de eisen van de uiteindelijke opdrachtgever in de scope van ons product zal dit de overheid betreffen. </p>
+<h2 id="Teamleerdoel"><a href="#Teamleerdoel" class="headerlink" title="Teamleerdoel"></a>Teamleerdoel</h2><p>Binnen het team willen wij graag leren hoe wij goed gebruik maken van de agile methodiek van werken en daarbij zouden wij ook allemaal graag meer ervaring opdoen met het werken volgens scrum sprints. Tijdens dit project is het voor ons uiteraard ook zaak om als team meer ervaring op te doen met python en het gebruik van raspberry pi’s. </p>
+<h2 id="Individuele-Leerdoelen"><a href="#Individuele-Leerdoelen" class="headerlink" title="Individuele Leerdoelen"></a>Individuele Leerdoelen</h2><h3 id="Mourad"><a href="#Mourad" class="headerlink" title="Mourad:"></a>Mourad:</h3><h6 id="Uit-FYS"><a href="#Uit-FYS" class="headerlink" title="Uit FYS:"></a>Uit FYS:</h6><p>1.</p>
+<blockquote>
+<p>Dit jaar, maak ik het huiswerk dat ik krijg binnen 3 dagen nadat het is opgegeven af</p>
+</blockquote>
+<p>2.</p>
+<blockquote>
+<p> Tijdens het project FYS, ga ik nu wel nee zeggen als ik het idee van een ander niet goed vind</p>
+</blockquote>
+<h6 id="PAD"><a href="#PAD" class="headerlink" title="PAD:"></a>PAD:</h6><p>3.</p>
+<blockquote>
+<p>Tijdens het project PAD, lever ik al mijn taken op tijd op terwijl ze ook aan de eisen van de taak voldoen</p>
+</blockquote>
+<p>4.</p>
+<blockquote>
+<p>Tijdens PAD, vraag ik zo snel mogelijk hulp aan de rest van het groepje als ik iets niets begrijp</p>
+</blockquote>
+<h3 id="Stijn"><a href="#Stijn" class="headerlink" title="Stijn"></a>Stijn</h3><h6 id="Uit-FYS-1"><a href="#Uit-FYS-1" class="headerlink" title="Uit FYS:"></a>Uit FYS:</h6><p>1.</p>
+<blockquote>
+<p>Aan het einde van FYS (nu PAD) sta ik voor mezelf op en lever ik kritiek als er dingen zijn in een groep waar ik het niet mee eens.</p>
+</blockquote>
+<p>2.</p>
+<blockquote>
+<p>Uiterlijk eind van het schooljaar heb ik mijn opdrachten/huiswerk netjes op tijd af en hoef ik niet meer de dag van tevoren alles te maken.</p>
+</blockquote>
+<h6 id="PAD-1"><a href="#PAD-1" class="headerlink" title="PAD:"></a>PAD:</h6><p>3.</p>
+<blockquote>
+<p>Aan het einde van PAD ga ik niet andermans werk opknappen als hij/zij het slordig heeft gedaan maar zorg ik ervoor dat die persoon het zelf oplost.</p>
+</blockquote>
+<p>4.</p>
+<blockquote>
+<p>Aan het einde van PAD zorg ik ervoor dat ik mijn deel van het project netjes en goed heb afgemaakt.</p>
+</blockquote>
+<h3 id="Cornel"><a href="#Cornel" class="headerlink" title="Cornel"></a>Cornel</h3><h6 id="Uit-FYS-2"><a href="#Uit-FYS-2" class="headerlink" title="Uit FYS:"></a>Uit FYS:</h6><p>1.</p>
+<blockquote>
+<p>Ik wil voor het einde van Blok 1 van mijn onzekerheid afkomen.</p>
+</blockquote>
+<p>2.</p>
+<blockquote>
+<p>Ik ga in Blok 1 beter met mijn team samenwerken.</p>
+</blockquote>
+<h6 id="PAD-2"><a href="#PAD-2" class="headerlink" title="PAD:"></a>PAD:</h6><p>3.</p>
+<blockquote>
+<p>Bij de eerstvolgende taak die ik opgeleverd krijg, zal ik op tijd mijn teamgenoten waarschuwen als er iets fout gaat.</p>
+</blockquote>
+<p>4.</p>
+<blockquote>
+<p>Placeholder</p>
+</blockquote>
+<h3 id="Souhail"><a href="#Souhail" class="headerlink" title="Souhail"></a>Souhail</h3><h5 id="Uit-FYS-3"><a href="#Uit-FYS-3" class="headerlink" title="Uit FYS:"></a>Uit FYS:</h5><p>1.</p>
+<blockquote>
+<p>Bij de eerstvolgende taak die ik moet maken met mijn projectgroep, ga ik een tijdslimiet opstellen, om tijd over te houden voor andere groepstaken. </p>
+</blockquote>
+<p>2.</p>
+<blockquote>
+<p>Aan het einde van het semester wil ik zo goed JAVA programmeren, dat ik een applicatie realiseer die bepaalde informatie uit een database opvraagt en weergeeft in het scherm (en vice versa).</p>
+</blockquote>
+<h6 id="PAD-3"><a href="#PAD-3" class="headerlink" title="PAD:"></a>PAD:</h6><p>3.</p>
+<blockquote>
+<p>Tijdens het PAD-project ga ik nu wel grondiger letten op andermans opgeleverde werk en bekritiseren indien het nodig is. </p>
+</blockquote>
+<p>4.</p>
+<blockquote>
+<p>Aan het einde van PAD stel ik mezelf op, om met het groepje te spreken over alle tekortkomingen in het project, die we vervolgens kunnen rapporteren en oplossen.</p>
+</blockquote>
+<h3 id="Raphael"><a href="#Raphael" class="headerlink" title="Raphaël"></a>Raphaël</h3><h6 id="Uit-FYS-4"><a href="#Uit-FYS-4" class="headerlink" title="Uit FYS:"></a>Uit FYS:</h6><p>1.</p>
+<blockquote>
+<p>Uiterlijk blok2 houd ik mij aan mijn planning, waarin huiswerk en andere opdrachten staan vermeld. Deze planning werk ik wekelijks bij, zodat ik geen deadline of opdracht mis.</p>
+</blockquote>
+<p>2.</p>
+<blockquote>
+<p>Uiterlijk 1 september 2018 ben ik zo goed in het programmeren in python, dat ik mijn eigen AI kan maken.</p>
+</blockquote>
+<h6 id="PAD-4"><a href="#PAD-4" class="headerlink" title="PAD:"></a>PAD:</h6><p>3.</p>
+<blockquote>
+<p>Aan het einde van het PAD project wil ik in JAVA een goeie webapplicatie kunnen maken met goeie code-conventions</p>
+</blockquote>
+<p>4.</p>
+<blockquote>
+<p>Uiterlijk sprint-2 wil ik goed zijn in de taken als scrummaster volbrengen</p>
+</blockquote>
+<h3 id="Ziggy"><a href="#Ziggy" class="headerlink" title="Ziggy"></a>Ziggy</h3><h6 id="Uit-FYS-5"><a href="#Uit-FYS-5" class="headerlink" title="Uit FYS:"></a>Uit FYS:</h6><p>1.</p>
+<blockquote>
+<p>persoonlijk leerdoel: Binnen het project moet ik niet al het werk alleen willen doen ik moet het gemaakte werk met het project team bespreken en zo miscommunicatie voorkomen. </p>
+</blockquote>
+<p>2.</p>
+<blockquote>
+<p>leerdoel in het kader van samenwerking: Met het oog op de samenwerking is het beter als ik binnen het team de leiding zo nu en dan op mij neem dit is binnen het nieuwe project ook het geval omdat ik de product owner ben. ik moet er dus op toezien dat alles naar wens van de opdrachtgever verloopt. </p>
+</blockquote>
+<h6 id="PAD-5"><a href="#PAD-5" class="headerlink" title="PAD:"></a>PAD:</h6><p>3.</p>
+<blockquote>
+<p>Bij Het nieuwe project wil ik mij focussen op het planmatig werken, om zo alles op tijd te kunnen inleveren en zo voldoende tijd over te houden om een kwaliteitscheck te kunnen realiseren. Binnen dit project is er ook sprake van een voor mij nieuwe programmeertaal “Python” om deze taal zo spoedig mogelijk onder de knie te krijgen ga ik per dag 1 uur besteden aan het maken van oefeningen met python. </p>
+</blockquote>
+<p>4.</p>
+<blockquote>
+<p>Ook wil ik binnen het nieuwe project graag meer ervaring opdoen betreffende de wensen van een opdrachtgever uitvoeren. Hiermee bedoel ik dat ik de wensen van de opdrachtgever beter in de praktijk wil brengen, om zo een product te kunnen leveren waar de opdrachtgever compleet tevreden mee is. Hierbij is het erg belangrijk dat de communicatie tussen de betrokken partijen goed verloopt hier ga ik mij ook volledig voor inzetten </p>
+</blockquote>
+<h2 id="Afspraken"><a href="#Afspraken" class="headerlink" title="Afspraken"></a>Afspraken</h2><h3 id="Regels-aanwezigheid"><a href="#Regels-aanwezigheid" class="headerlink" title="Regels aanwezigheid:"></a>Regels aanwezigheid:</h3><ul>
+<li><p>Eens per week zal er een vergadering plaats vinden hierin bespreekt de groep of het nog naar behoren functioneert of dat er iets moet veranderen alle teamleden worden verwacht hierbij aanwezig te zijn.</p>
+</li>
+<li><p>Wees aanwezigheid de afgesproken vergaderingen. Inclusief de les coaching.</p>
+</li>
+<li><p>Als je niet aanwezig kunt zijn, laat dit dan van tevoren weten. Het liefst 2 uur van tevoren.  </p>
+</li>
+<li><p>Mocht je te laat komen, meldt dit zo spoedig mogelijk inclusief reden. </p>
+</li>
+<li><p>Melden van ziekte of te laat komen wordt gedaan in de groep WhatsApp.</p>
+</li>
+</ul>
+<h3 id="Afspraken-nakomen"><a href="#Afspraken-nakomen" class="headerlink" title="Afspraken nakomen:"></a>Afspraken nakomen:</h3><ul>
+<li><p>Afspraken die je maakt worden bijgehouden in de notulen tijdens de vergaderingen. Wanneer je een afspraak hebt gemaakt wordt je ook geacht deze na te komen. </p>
+</li>
+<li><p>Als je een afspraak niet kunt nakomen, laat je dit van tevoren weten zodat anderen mogelijk het werk over kunnen nemen of helpen. Met uiteraard een geldige reden.</p>
+</li>
+</ul>
+<h3 id="Deliverables"><a href="#Deliverables" class="headerlink" title="Deliverables:"></a>Deliverables:</h3><ul>
+<li><p>Iedereen maakt zijn toegewezen werk en zal bij problemen of ernstige vertragingen om hulp vragen</p>
+</li>
+<li><p>Het werk wat gedaan is wordt op tijd op google drive of in het Gitlab ingeleverd, dit zodat de rest van het team dit eventueel kan nalopen om zo de kwaliteit hoog te houden.</p>
+</li>
+</ul>
+<h3 id="Communicatie-en-werkuren"><a href="#Communicatie-en-werkuren" class="headerlink" title="Communicatie en werkuren:"></a>Communicatie en werkuren:</h3><p>Communiceren gebeurt via WhatsApp of in persoon. Werkuren zijn van 8:30 tot 20:00. De werkuren houden in dat binnen de aangegeven uren contact opgenomen kan worden met de teamleden. Buiten deze werkuren is het niet verplicht om te reageren, omdat slaap ook belangrijk is. Uitzonderingen hierop zijn in het geval dat de persoon waarmee contact opgenomen wordt zijn werk niet heeft geleverd voor de afgesproken deadline. Het is de bedoeling dat binnen deze werkuren mensen binnen 3 uur reageren tenzij er een belangrijke reden is dat dit niet mogelijk maakt. In het weekend is het toegestaan om later te reageren als de afgesproken 3 uur.</p>
+<h3 id="Consequenties"><a href="#Consequenties" class="headerlink" title="Consequenties"></a>Consequenties</h3><p>Als meerdere afspraken niet of te laat na worden gekomen en/of te vaak niet aanwezig bent, zal er een waarschuwing volgen. Iedere breuk van het samenwerkingscontract wordt opgeslagen. Als er geen verbetering komt, wordt de coach op de hoogte gesteld met mogelijke consequenties die in het uitzonderlijke geval kunnen leiden tot uit de projectgroep gezet worden. </p>
+<h2 id="Teamblog"><a href="#Teamblog" class="headerlink" title="Teamblog"></a>Teamblog</h2><p>Tijdens de loop van dit project zal er een teamblog bijgehouden worden hierin wordt o.a. bijgehouden hoe het team functioneert, wat er allemaal gedaan is aan het product en ook reflecties van de verschillende teamleden zullen hier worden bijgehouden.</p>
+<p>Verder hebben wij de gezamenlijke afspraak gemaakt dat elk teamlid met enige regelmaat een update plaats op de blog hierdoor zal de blog minimaal een keer per week worden geüpdate om zo een zo accuraat mogelijk beeld te bewaren van de groep. </p>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> Documentatie </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Week1]]></title>
+      <url>/Blog/2018/02/08/Week1/</url>
+      <content type="html"><![CDATA[<p>Welcome to the first post on this blog! This format is our weekly summary, we will post weekly updates here on what is going on in the project. We will also post regular updates with every couple git commits.</p>
+<h2 id="This-week"><a href="#This-week" class="headerlink" title="This week"></a>This week</h2><h3 id="Monday"><a href="#Monday" class="headerlink" title="Monday"></a>Monday</h3><p>On monday we had our first project presentation. Our professors explained what we will be doing the next couple of weeks, and gave a little insight on what we are supposed to do.</p>
+<p>After that we met each other for the first time, with a ‘game’ to get to know each other.</p>
+<h3 id="Wednesday"><a href="#Wednesday" class="headerlink" title="Wednesday"></a>Wednesday</h3><p>On wednesday, we had a presentation from a <a href="https://www.planet.com/" target="_blank" rel="noopener">Planet®</a> employee, explaining the company’s history and their plans for satellite imagery.<br>After the presentation, we participated in a workshop on creative brainstorming &amp; target audience analysis. While brainstorming, we came up with a couple idea’s for the project, but we didn’t come up with something definitive.<br>We also setup <a href="https://trello.com" target="_blank" rel="noopener">Trello</a> with multiple boards for our regular R&amp;D and our idea lists &amp; such.</p>
+<h2 id="Plans"><a href="#Plans" class="headerlink" title="Plans"></a>Plans</h2><p>We are planning to have our main idea finished next week so we can research what frameworks to use, and fill our R&amp;D board with cards =).</p>
+]]></content>
+      
+        <categories>
+            
+            <category> Weekly Summary </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Summary </tag>
+            
+        </tags>
+        
+    </entry>
+    
+  
+  
+</search>
